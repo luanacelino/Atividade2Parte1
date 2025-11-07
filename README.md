@@ -31,3 +31,11 @@ O JSON(JavaScriptObjectNotation) é um formato leve de troca de dados, baseado e
 Ele é composto por pares de chaves e valor, e serve para armazenar e transmitir informações entre sistemas.
 
 **Exemplo de um JSON**
+
+```
+{"nome":"Rodrigo",
+ "idade":27,
+ "nascimento":"01-11-1998"
+}
+```
+
