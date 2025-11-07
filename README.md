@@ -22,4 +22,7 @@ você usaria para:**
 **4. Qual a vantagem de usar template strings (``) em vez de concatenação com +
 para criar strings complexas?**
 
-...
+<br>
+
+**1. Explique o que é JSON e por que ele se tornou tão popular para troca de dados
+entre aplicações.**
