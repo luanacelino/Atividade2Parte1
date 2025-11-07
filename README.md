@@ -53,3 +53,20 @@ A diferença fundamental entre ```JSON.stringify()``` e ```JSON.parse()``` esta 
 
 -```JSON.parse()```: converte uma string JSON em um objeto JavaScript
 
+**Exemplo**
+
+```
+// temos um objeto JS
+let pessoa = {nome: "Henrique", idade: 28};
+
+//transformar o objeto em texto JSON
+let texto = JSON.stringify(pessoa);
+console.log(textoJSON);
+// resultado ´{"nome":"Henrique", "idade":25}
+
+// agora transformar o texto JSON de volta em objeto
+let objetoDeNovo = JSON.parse(textoJSON);
+console.log(objetoDeNovo);
+// resultado: Henrique
+```
+
