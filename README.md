@@ -33,9 +33,7 @@ Ele é composto por pares de chaves e valor, e serve para armazenar e transmitir
 **Exemplo de um JSON**
 
 ```
-<span style="color:red>
 {"nome":"Rodrigo",
-</span>
  "idade":27,
  "nascimento":"01-11-1998"
 }
