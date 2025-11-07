@@ -4,6 +4,7 @@ Essa é a primeira parte da segunda atividade, e nessa atividade vamos responder
 <br>
 
 ###Sumario
+<br>
 **1. Explique o que é JSON e por que ele se tornou tão popular para troca de dados
 entre aplicações.**
 <br>
