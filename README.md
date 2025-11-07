@@ -25,3 +25,8 @@ para criar strings complexas?
 
 **1. Explique o que é JSON e por que ele se tornou tão popular para troca de dados
 entre aplicações.**
+
+O JSON(JavaScriptObjectNotation) é um formato leve de troca de dados, baseado em texto, que usa uma estrutura parecida com objetos do JavaScript.
+Ele é composto por pares de chaves e valor, e serve para armazenar e transmitir informações entre sistemas.
+
+**Exemplo de um JSON**
