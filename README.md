@@ -44,6 +44,7 @@ O JSON se tornou tão popular devida a simplicidade e legibilidade humana.É fac
 <br>
 <br>
 
+
 **2.Qual a diferença fundamental entre ```JSON.stringify() e JSON.parse()```? Dê um
 exemplo prático de quando usar cada um.**
 
