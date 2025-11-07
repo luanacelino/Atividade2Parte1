@@ -27,7 +27,7 @@ para criar strings complexas?
 **1. Explique o que é JSON e por que ele se tornou tão popular para troca de dados
 entre aplicações.**
 
-O JSON(JavaScriptObjectNotation) é um formato leve de troca de dados, baseado em texto, que usa uma estrutura parecida com objetos do JavaScript.
+O JSON (JavaScriptObjectNotation) é um formato leve de troca de dados, baseado em texto, que usa uma estrutura parecida com objetos do JavaScript.
 Ele é composto por pares de chaves e valor, e serve para armazenar e transmitir informações entre sistemas.
 
 **Exemplo de um JSON**
@@ -38,4 +38,6 @@ Ele é composto por pares de chaves e valor, e serve para armazenar e transmitir
  "nascimento":"01-11-1998"
 }
 ```
+<br>
+O JSON se tornou tão popular devida a simplicidade e legibilidade humana.É facil e ler e entender, mesmo para quem nã é programador, a sintaxe é limpa, sem tags complexas. Outro ponto de destaque é a sua compatibilidade com varias linguagens. O JSON não é exlcusivo do JavaScript, ele é suportado por praticamente **todas as linguagens de programação** (Python, Java, PHP, etc.), o que facilita a comunicação entre sistemas diferentes(a unica ressalva é quando vamos lidar com funções e nesse caso o JSON não vai fazer essa leitura entre uma linguagem e outra)
 
