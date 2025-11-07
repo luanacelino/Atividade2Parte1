@@ -70,3 +70,5 @@ console.log(objetoDeNovo);
 // resultado: Henrique
 ```
 
+Explicando que o ```JSON.stringify``` transforma o objeto ```{nome: "Henrique", idade: 25}``` em texto(string)
+
