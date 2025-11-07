@@ -12,7 +12,5 @@ entre aplicações.**
 
 <br>
 
-
-
 **2.Qual a diferença fundamental entre JSON.stringify() e JSON.parse()? Dê um
 exemplo prático de quando usar cada um.**
