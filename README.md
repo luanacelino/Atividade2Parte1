@@ -82,4 +82,10 @@ você usaria para:**
 - Remover a palavra "JavaScript" e gerar uma nova string;
 - Substituir "baseada" por "tem origem"
 
+  Primeiro verificando se tem a palavra "Script"
+  ```
+  console,log(texto.includes("Script"));
+  ```
+  O metodo ```.includes``` é usado para verificar se uma palavra ou trecho existe dentro da string. Ela vai retornar **true** e **false** se não encontrar
+
 
