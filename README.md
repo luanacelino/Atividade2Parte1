@@ -14,7 +14,7 @@ entre aplicações.**
 exemplo prático de quando usar cada um.**
 
 **3.Considerando a string ```"JavaScript é baseada em ECMA Script"```, quais métodos
-você usaria para:
+você usaria para:**
 - Verificar se contém a palavra "Script";
 - Remover a palavra "JavaScript" e gerar uma nova string;
-- Substituir "baseada" por "tem origem"**
+- Substituir "baseada" por "tem origem"
