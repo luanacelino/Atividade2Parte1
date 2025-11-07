@@ -4,7 +4,7 @@ Essa é a primeira parte da segunda atividade, e nessa atividade vamos responder
 <br>
 <br>
 
-### Sumario
+### Sumario:
 <br>
 
 **1. Explique o que é JSON e por que ele se tornou tão popular para troca de dados
@@ -12,3 +12,9 @@ entre aplicações.**
 
 **2.Qual a diferença fundamental entre JSON.stringify() e JSON.parse()? Dê um
 exemplo prático de quando usar cada um.**
+
+**Considerando a string "JavaScript é baseada em ECMA Script", quais métodos
+você usaria para:
+● Verificar se contém a palavra "Script";
+● Remover a palavra "JavaScript" e gerar uma nova string;
+● Substituir "baseada" por "tem origem"**
