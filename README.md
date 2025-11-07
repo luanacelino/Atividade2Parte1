@@ -81,11 +81,19 @@ você usaria para:**
 - Verificar se contém a palavra "Script";
 - Remover a palavra "JavaScript" e gerar uma nova string;
 - Substituir "baseada" por "tem origem"
+- 
+<br>
+
+```"JavaScript é baseada em ECMA Script"```
 
   Primeiro verificando se tem a palavra "Script"
   ```
-  console,log(texto.includes("Script"));
+  console.log(texto.includes("Script"));
   ```
-  O metodo ```.includes``` é usado para verificar se uma palavra ou trecho existe dentro da string. Ela vai retornar **true** e **false** se não encontrar
+  O metodo ```.includes``` é usado para verificar se uma palavra ou trecho existe dentro da string. Ela vai retornar **true** e **false** se não encontrar.
+
+  <br>
+
+ Agora remover a palavra "JavaScript" e gerar uma nova string
 
 
