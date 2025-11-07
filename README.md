@@ -75,7 +75,6 @@ Explicando que o ```JSON.stringify()``` transforma o objeto ```{nome: "Henrique"
 Ja o ```JSON.parse()``` transforma esse texto de volta em um objeto que o JavaScript entende.
 
 <br>
-<br>
 
 **3.Considerando a string ```"JavaScript é baseada em ECMA Script"```, quais métodos
 você usaria para:**
