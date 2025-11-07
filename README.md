@@ -48,6 +48,7 @@ O JSON se tornou tão popular devida a simplicidade e legibilidade humana.É fac
 exemplo prático de quando usar cada um.**
 
 A diferença fundamental entre ```JSON.stringify()``` e ```JSON.parse()``` esta no sentido da conversão de dados:
+
 -```JSON.stringify()```: converte um objeto JavaScript em uma string JSON.
 
 -```JSON.parse()```: converte uma string JSON em um objeto JavaScript
