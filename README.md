@@ -70,5 +70,16 @@ console.log(objetoDeNovo);
 // resultado: Henrique
 ```
 
-Explicando que o ```JSON.stringify``` transforma o objeto ```{nome: "Henrique", idade: 25}``` em texto(string)
+Explicando que o ```JSON.stringify()``` transforma o objeto ```{nome: "Henrique", idade: 28}``` em texto(string).
+Ja o ```JSON.parse()``` transforma esse texto de volta em um objeto que o JavaScript entende.
+
+<br>
+<br>
+
+**3.Considerando a string ```"JavaScript é baseada em ECMA Script"```, quais métodos
+você usaria para:**
+- Verificar se contém a palavra "Script";
+- Remover a palavra "JavaScript" e gerar uma nova string;
+- Substituir "baseada" por "tem origem"
+
 
