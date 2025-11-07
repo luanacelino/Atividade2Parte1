@@ -2,7 +2,7 @@
 Essa é a primeira parte da segunda atividade, e nessa atividade vamos responder algumas questões. 
 
 <br>
-<br>
+
 
 ### Sumario:
 <br>
