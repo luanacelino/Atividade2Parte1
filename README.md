@@ -1,5 +1,5 @@
 ## Atividade2Parte1
-Essa é a primeira parte da segunda atividade, e nessa atividade vamos responder algumas questões. 
+Essa é a primeira parte da segunda atividade, e nessa atividade irei responder algumas questões. 
 
 <br>
 
@@ -90,10 +90,27 @@ você usaria para:**
   ```
   console.log(texto.includes("Script"));
   ```
-  O metodo ```.includes``` é usado para verificar se uma palavra ou trecho existe dentro da string. Ela vai retornar **true** e **false** se não encontrar.
+  O metodo ```.includes()``` é usado para verificar se uma palavra ou trecho existe dentro da string. Ela vai retornar **true** e **false** se não encontrar.
 
   <br>
 
  Agora remover a palavra "JavaScript" e gerar uma nova string
 
+```
+console.log(texto.replace("JavaScript", ""));
+```
+O metodo ```.replace()``` substitui uma parte do texto por outra. Aqui, troquei "JavaScript" por uma string vazia ```("")```, o que remove essa palavra da frase.
+O resultado sera: **é baseada em ECMA Script**
+
+<br>
+
+O ultimo caso agora, substituir a palavra "baseada" por "tem origem"
+
+```
+console.log(texto.replace("é baseada", "tem origem"));
+```
+Mais uma vez usando o ```.replace()```, mas agora para trocar uma palavra por outra.
+O resutado sera:**"JavaScript tem origem em ECMA Script"**
+
+<br>
 
