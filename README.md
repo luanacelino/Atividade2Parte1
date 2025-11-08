@@ -116,4 +116,29 @@ O resutado sera:**"JavaScript tem origem em ECMA Script"**
 
 **4.Qual a vantagem de usar template strings (``) em vez de concatenação com + para criar strings complexas?**
 
-A grande vantagem de usar template strings(aquelas escritas entre crases ```´```, é que elas tornam o codigo mais legivel, pratico e facil de manter, especialmente quando precisamos montar strings complexas ou incluir variaveis e quebras de linha
+A grande vantagem de usar template strings(aquelas escritas entre crases ```´```, é que elas tornam o codigo mais legivel, pratico e facil de manter, especialmente quando precisamos montar strings complexas ou incluir variaveis e quebras de linha.
+
+<br>
+
+Exemplo de concatenaçao classica
+```
+let nome = "Mara";
+let idade = 23;
+
+let mensagem = "Meu nome é " + nome + " e eu tenho " + idade + " anos.";
+console.log(mensagem);
+```
+Esse metodo funciona, mas fica cheio de sinais de +, aspas e espaços. Isso tudo pode deixar o codigo confuso e dificil de ler, principalmente em frases longas.
+
+<br>
+
+Exemplo com template string
+```
+let nome = "Mara";
+let idade = 23;
+
+let mensagem = `Meu nome é ${nome} e eu tenho ${idade} anos.`;
+console.log(mensagem)
+```
+Aqui o codigo fica mais limpo e natural de ler. A interpolação direta é uma vantagem excelente pois permite inserir variaveis e expressões com ```${}```. A quebra de linha simples, podemos escrever varias linhas sem ```\n```
+
