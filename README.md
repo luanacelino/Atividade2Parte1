@@ -114,3 +114,6 @@ O resutado sera:**"JavaScript tem origem em ECMA Script"**
 
 <br>
 
+**4.Qual a vantagem de usar template strings (``) em vez de concatenação com + para criar strings complexas?**
+
+A grande vantagem de usar template strings(aquelas escritas entre crases ```´```, é que elas tornam o codigo mais legivel, pratico e facil de manter, especialmente quando precisamos montar strings complexas ou incluir variaveis e quebras de linha
